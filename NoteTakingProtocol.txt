@@ -1,0 +1,51 @@
+Version 0.2
+
+(30-Oct-2014)
+Colours
+
+
+	* Teal for an example [ctrl + t]
+	* ﻿Maroon for the code  [alt + m]
+	* Olive for the comments. [ctrl + o]  
+
+	* Dark blue bold big for headlines.  [alt + l]
+
+	* Bold Purple for sub headline. [alt + p]
+	* Hashtagged bold green for the contents before any note. [alt + g]
+
+	* Questions regarding a topic. [alt + r]
+	* black for most notes. [atl + ,] [alt + . ] (double on b)
+
+
+We should have font types too. 
+black blue, maroon, teal, olive, grey, white, red ,lime ,fuschia ,aqua, navy ,purple, green ,yellow
+
+
+Highlighting
+
+
+	1. Underlining. [ctrl + u]
+	2. The highlighter. [ctrl + b]
+	3. Single word colour slightly different.  
+
+
+Indentation and Bullets
+
+	* Indentation [ctrl + m]
+
+		* Subpoints. 
+		* Explanation to red question.
+
+	* Bullets
+	* 
+		* Ordered points. [ctrl + shift + b]
+
+		* Numbered points . [ctrl + shift + o]
+
+
+
+Images
+Annototed images are encouraged.
+Annotation in evernote. 
+Or Hand Drawn snap uploaded in evernote.
+
