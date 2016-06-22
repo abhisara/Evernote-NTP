@@ -1,2 +1,8 @@
 # Evernote-NTP
-Following changes in the way I take notes.
+
+My Note Taking Protocol. 
+
+Some pointers in how the autohotkey language works. 
+
+!	Alt
+^	Control
