@@ -4,13 +4,13 @@ Version 0.3
 Colours
 
 	Examples or answers :-
-	* Teal for an example [ctrl + t]
+	* Teal for an example [alt + t]
 	
 	Code:-
 	* ﻿Maroon for the code  [alt + m]
 
-	Comments & footnotes :-
-	* Olive for the comments. [ctrl + o]  
+	Date & footnotes :-
+	* Olive for the comments. [alt + a]  
 
 	Headlines :-
 	* Dark blue bold big for headlines.  [alt + l]
@@ -24,7 +24,7 @@ Colours
 	* Questions regarding a topic. [alt + r]
 	
 	Normal :-
-	* black for most notes. [atl + ,] [alt + . ] (double on b)
+	* black for most notes. [alt + ,] [alt + . ] (double on b)
 
 
 We should have font types too. 

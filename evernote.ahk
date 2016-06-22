@@ -48,7 +48,7 @@ return
 !r::
 Send ^d
 WinWait Font
-Send {Tab}Regular{Tab}11{Tab}{Tab}{Tab}r{Enter}
+Send {Tab}Bold{Tab}11{Tab}{Tab}{Tab}r{Enter}
 return
 
 ;Hashtag Index in the beginning.
@@ -58,12 +58,18 @@ WinWait Font
 Send {Tab}Bold{Tab}10{Tab}{Tab}{Tab}g{Enter}
 return
 
-;Date in Olive. Both created and updated - not too frequent.
+;date and footnotes
 !a::
 Send ^d
 WinWait Font
 Send {Tab}Regular{Tab}10{Tab}{Tab}{Tab}o{Enter}
 return
+
+;examples and answers
+!t::
+Send ^d
+WinWait Font
+Send {Tab}Regular{Tab}10{Tab}{Tab}{Tab}t{Enter}
 
 !/::
 MsgBox Wow!
