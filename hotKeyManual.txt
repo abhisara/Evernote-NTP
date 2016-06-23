@@ -1,0 +1,21 @@
+http://ahkscript.org/docs/Tutorial.htm	
+
+http://ahkscript.org/docs/commands/LoopReadFile.htm
+
+
+
+# win logo key 
+
+! alt 
+
+^ ctrl 
+
++ shift 
+
+
+
+how to find the ahk_class ? 
+there is windows spy that comes along 
+with it. 
+
+
