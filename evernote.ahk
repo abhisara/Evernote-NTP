@@ -66,10 +66,11 @@ Send {Tab}Regular{Tab}10{Tab}{Tab}{Tab}o{Enter}
 return
 
 ;examples and answers
-!t::
+!y::
 Send ^d
 WinWait Font
 Send {Tab}Regular{Tab}10{Tab}{Tab}{Tab}t{Enter}
+return
 
 !/::
 MsgBox Wow!
